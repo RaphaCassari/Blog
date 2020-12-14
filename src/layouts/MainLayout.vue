@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Cassari App
         </q-toolbar-title>
 
       </q-toolbar>
@@ -29,7 +29,7 @@
           header
           class="text-grey-8"
         >
-          Essential Links
+          Paginas
         </q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
